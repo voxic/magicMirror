@@ -1,7 +1,7 @@
 {
   "name": "magicmirror",
   "version": "1.0.0",
-  "description": "Simple bootstrapped project with node, ejs and express",
+  "description": "My magic mirror",
   "main": "app.js",
   "dependencies": {
     "express": "^4.14.1",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voxic/node-express-ejs-bootstrap.git"
+    "url": "git+https://github.com/voxic/magicMirror.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/voxic/node-express-ejs-bootstrap/issues"
+    "url": "https://github.com/voxic/magicMirror/issues"
   },
-  "homepage": "https://github.com/voxic/node-express-ejs-bootstrap#readme"
+  "homepage": "https://github.com/voxic/magicMirror#readme"
 }
