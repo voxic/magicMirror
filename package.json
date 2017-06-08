@@ -1,5 +1,5 @@
 {
-  "name": "node-express-ejs-bootstrap",
+  "name": "magicmirror",
   "version": "1.0.0",
   "description": "Simple bootstrapped project with node, ejs and express",
   "main": "app.js",
