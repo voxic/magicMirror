@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#clock {
+    color: white;
+    font-size: 8em;
+}
+
+#news {
+    color: white;
+    font-size: 4em;
+}
+
+.news {
+    margin-top: 1100px;
+}
+
+.lead {
+    color: white;
+    font-size: 2em;
+}
