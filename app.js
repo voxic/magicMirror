@@ -46,5 +46,5 @@ app.get('/', (req, res) => {
 
 // Run server
 console.log("Server is listening...")
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 3003);
 app.listen(app.get('port'));
